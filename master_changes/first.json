@@ -1,0 +1,10 @@
+{
+	"name": "Test",
+	"data": {
+		"test": 24,
+		"val": "abc"
+	},
+	"extra": {
+		"val": "hello"
+	}
+}
